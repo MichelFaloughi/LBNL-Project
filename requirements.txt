@@ -1,0 +1,6 @@
+numpy
+matplotlib
+plotly
+fvgp
+gpcam
+jupyterlab
